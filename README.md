@@ -15,10 +15,12 @@ Open to entry-level Cloud / DevOps / SRE / MLOps roles — remote or relocation.
 
 **Work**
 
-- [fastapi-ci-demo](https://github.com/AnKIT7-ops/fastapi-ci-demo) — FastAPI service with ruff, pytest, Docker and a GitHub Actions pipeline to Docker Hub
-- E-commerce on AWS — multi-service backend, base for Terraform, Kubernetes and observability · *in progress*
-- ML drift monitoring — Evidently, Airflow, Prometheus, Grafana · *next*
-- Agentic MLOps assistant — a LangGraph agent that diagnoses and fixes failing pipelines · *next*
+- [fastapi-ci](https://github.com/AnKIT7-ops/fastapi-ci) — FastAPI service with ruff, pytest, a multi-stage non-root Docker image and a GitHub Actions pipeline to Docker Hub, gated by tests and a post-publish smoke test
+- [Smart Cardiology Decision Support](https://github.com/AnKIT7-ops/Smart-Cardiology-Document-Processing) — internship project: Logistic Regression + XGBoost cardiac risk model (92% accuracy) and a real-time Tkinter dashboard on a shared SQLite store
+- [AI navigation assistant for the visually impaired](https://github.com/AnKIT7-ops/AI-Powered-Navigation-and-Text-to-Speech-Assistive-Device-For-The-Visually-Impaired) — YOLOv8 + OpenCV obstacle detection with spoken cues, Flask APIs and MongoDB, optimised for Raspberry Pi
+- Football match analysis — YOLOv5/YOLOv8 player, referee and ball detection; K-Means team classification and optical-flow tracking
+- Library management system — Flask REST APIs with MongoDB indexing, search and overdue notifications
+- AWS EC2 & IAM practice — EC2 provisioning, least-privilege IAM policies, instance roles and MFA
 
 **Stack**
 
