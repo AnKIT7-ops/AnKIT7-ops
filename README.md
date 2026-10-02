@@ -20,7 +20,6 @@ Open to entry-level Cloud / DevOps / SRE / MLOps roles — remote or relocation.
 - [AI navigation assistant for the visually impaired](https://github.com/AnKIT7-ops/AI-Powered-Navigation-and-Text-to-Speech-Assistive-Device-For-The-Visually-Impaired) — YOLOv8 + OpenCV obstacle detection with spoken cues, Flask APIs and MongoDB, optimised for Raspberry Pi
 - Football match analysis — YOLOv5/YOLOv8 player, referee and ball detection; K-Means team classification and optical-flow tracking
 - Library management system — Flask REST APIs with MongoDB indexing, search and overdue notifications
-- AWS EC2 & IAM practice — EC2 provisioning, least-privilege IAM policies, instance roles and MFA
 
 **Stack**
 
