@@ -29,4 +29,4 @@ PyTorch · TensorFlow · scikit-learn · Flask · React · Node.js<br>
 
 &nbsp;
 
-[LinkedIn](https://www.linkedin.com/in/ankit-lakra) · [Email](mailto:ankitlakarhara@gmail.com) · [Docker Hub](https://hub.docker.com/u/ankit7777)
+[LinkedIn](https://www.linkedin.com/in/ankit-lakra) · [Docker Hub](https://hub.docker.com/u/ankit7777)
