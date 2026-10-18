@@ -13,17 +13,17 @@
 <text x="570" y="58" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="800" fill="#fff" letter-spacing="1">BUGS UTD</text>
 <text x="570" y="80" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#8fbf9a">legacy code · flaky tests</text>
 <rect x="382" y="34" width="96" height="46" rx="8" fill="#0d1f12" stroke="#2e7d32"/>
-<text x="430" y="68" text-anchor="middle" font-family="'DejaVu Sans Mono', 'Courier New', monospace" font-size="28" font-weight="700" fill="#C6F432">107<tspan fill="#5d7a63">-</tspan>0</text>
+<text x="430" y="68" text-anchor="middle" font-family="'DejaVu Sans Mono', 'Courier New', monospace" font-size="28" font-weight="700" fill="#C6F432">108<tspan fill="#5d7a63">-</tspan>0</text>
 <text x="430" y="95" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="9.5" font-weight="700" fill="#8fbf9a" letter-spacing="2">SEASON 25/26 · LIVE</text>
 <circle cx="690" cy="40" r="5" fill="#ff3b30"><animate attributeName="opacity" values="1;0.2;1" dur="1.6s" repeatCount="indefinite"/></circle>
 <g transform="translate(170,40)"><circle r="9" fill="#fff" stroke="#111" stroke-width="1.2"/><polygon points="0,-3.8 3.6,-1.2 2.2,3.1 -2.2,3.1 -3.6,-1.2" fill="#111"/></g>
 <rect x="24" y="118" width="170" height="74" rx="10" fill="#000" fill-opacity="0.35" stroke="#ffffff" stroke-opacity="0.08"/>
 <text x="38" y="140" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="700" fill="#8fbf9a" letter-spacing="1.2">GOALS</text>
-<text x="38" y="170" font-family="'DejaVu Sans Mono', 'Courier New', monospace" font-size="26" font-weight="700" fill="#fff">107</text>
+<text x="38" y="170" font-family="'DejaVu Sans Mono', 'Courier New', monospace" font-size="26" font-weight="700" fill="#fff">108</text>
 <text x="38" y="184" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="10" fill="#6f9479">contributions · last 12 months</text>
 <rect x="204" y="118" width="170" height="74" rx="10" fill="#000" fill-opacity="0.35" stroke="#ffffff" stroke-opacity="0.08"/>
 <text x="218" y="140" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="700" fill="#8fbf9a" letter-spacing="1.2">SHOTS ON TARGET</text>
-<text x="218" y="170" font-family="'DejaVu Sans Mono', 'Courier New', monospace" font-size="26" font-weight="700" fill="#fff">94</text>
+<text x="218" y="170" font-family="'DejaVu Sans Mono', 'Courier New', monospace" font-size="26" font-weight="700" fill="#fff">95</text>
 <text x="218" y="184" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="10" fill="#6f9479">commits</text>
 <rect x="384" y="118" width="170" height="74" rx="10" fill="#000" fill-opacity="0.35" stroke="#ffffff" stroke-opacity="0.08"/>
 <text x="398" y="140" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="700" fill="#8fbf9a" letter-spacing="1.2">ASSISTS</text>
@@ -49,14 +49,14 @@
 <text x="590" y="218" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="700" fill="#8fbf9a" letter-spacing="1.2">FORM · LAST 5 WEEKS</text>
 <rect x="590" y="228" width="38" height="30" rx="6" fill="#2ecc71"/>
 <text x="609" y="249" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="800" fill="#04210f">W</text>
-<rect x="636" y="228" width="38" height="30" rx="6" fill="#2ecc71"/>
-<text x="655" y="249" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="800" fill="#04210f">W</text>
+<rect x="636" y="228" width="38" height="30" rx="6" fill="#9e9e9e"/>
+<text x="655" y="249" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="800" fill="#111">D</text>
 <rect x="682" y="228" width="38" height="30" rx="6" fill="#2ecc71"/>
 <text x="701" y="249" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="800" fill="#04210f">W</text>
 <rect x="728" y="228" width="38" height="30" rx="6" fill="#2ecc71"/>
 <text x="747" y="249" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="800" fill="#04210f">W</text>
-<rect x="774" y="228" width="38" height="30" rx="6" fill="#9e9e9e"/>
-<text x="793" y="249" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="800" fill="#111">D</text>
+<rect x="774" y="228" width="38" height="30" rx="6" fill="#2ecc71"/>
+<text x="793" y="249" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="800" fill="#04210f">W</text>
 <text x="24" y="300" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="700" fill="#8fbf9a" letter-spacing="1.2">POSSESSION · LANGUAGES ACROSS PUBLIC REPOS</text>
 <clipPath id="pbar"><rect x="24" y="312" width="812" height="22" rx="11"/></clipPath><g clip-path="url(#pbar)">
 <rect x="24.0" y="312" width="803.5" height="22" fill="#3572A5"/>
@@ -84,9 +84,9 @@
 <rect x="25.0" y="444.0" width="13.6" height="0.0" rx="1.5" fill="#2ecc71" fill-opacity="0"/>
 <rect x="40.6" y="444.0" width="13.6" height="0.0" rx="1.5" fill="#2ecc71" fill-opacity="0"/>
 <rect x="56.2" y="444.0" width="13.6" height="0.0" rx="1.5" fill="#2ecc71" fill-opacity="0"/>
-<rect x="71.8" y="437.1" width="13.6" height="6.9" rx="1.5" fill="#2ecc71" fill-opacity="0.95"/>
-<rect x="87.5" y="438.5" width="13.6" height="5.5" rx="1.5" fill="#2ecc71" fill-opacity="0.95"/>
-<rect x="103.1" y="439.8" width="13.6" height="4.2" rx="1.5" fill="#2ecc71" fill-opacity="0.95"/>
+<rect x="71.8" y="437.3" width="13.6" height="6.7" rx="1.5" fill="#2ecc71" fill-opacity="0.95"/>
+<rect x="87.5" y="434.7" width="13.6" height="9.3" rx="1.5" fill="#2ecc71" fill-opacity="0.95"/>
+<rect x="103.1" y="444.0" width="13.6" height="0.0" rx="1.5" fill="#2ecc71" fill-opacity="0"/>
 <rect x="118.7" y="444.0" width="13.6" height="0.0" rx="1.5" fill="#2ecc71" fill-opacity="0"/>
 <rect x="134.3" y="444.0" width="13.6" height="0.0" rx="1.5" fill="#2ecc71" fill-opacity="0"/>
 <rect x="149.9" y="444.0" width="13.6" height="0.0" rx="1.5" fill="#2ecc71" fill-opacity="0"/>
@@ -109,8 +109,8 @@
 <rect x="415.4" y="444.0" width="13.6" height="0.0" rx="1.5" fill="#2ecc71" fill-opacity="0"/>
 <rect x="431.0" y="444.0" width="13.6" height="0.0" rx="1.5" fill="#2ecc71" fill-opacity="0"/>
 <rect x="446.6" y="444.0" width="13.6" height="0.0" rx="1.5" fill="#2ecc71" fill-opacity="0"/>
-<rect x="462.2" y="424.6" width="13.6" height="19.4" rx="1.5" fill="#2ecc71" fill-opacity="0.95"/>
-<rect x="477.8" y="437.1" width="13.6" height="6.9" rx="1.5" fill="#2ecc71" fill-opacity="0.95"/>
+<rect x="462.2" y="425.3" width="13.6" height="18.7" rx="1.5" fill="#2ecc71" fill-opacity="0.95"/>
+<rect x="477.8" y="437.3" width="13.6" height="6.7" rx="1.5" fill="#2ecc71" fill-opacity="0.95"/>
 <rect x="493.5" y="444.0" width="13.6" height="0.0" rx="1.5" fill="#2ecc71" fill-opacity="0"/>
 <rect x="509.1" y="444.0" width="13.6" height="0.0" rx="1.5" fill="#2ecc71" fill-opacity="0"/>
 <rect x="524.7" y="444.0" width="13.6" height="0.0" rx="1.5" fill="#2ecc71" fill-opacity="0"/>
@@ -120,20 +120,20 @@
 <rect x="587.2" y="444.0" width="13.6" height="0.0" rx="1.5" fill="#2ecc71" fill-opacity="0"/>
 <rect x="602.8" y="444.0" width="13.6" height="0.0" rx="1.5" fill="#2ecc71" fill-opacity="0"/>
 <rect x="618.4" y="444.0" width="13.6" height="0.0" rx="1.5" fill="#2ecc71" fill-opacity="0"/>
-<rect x="634.0" y="430.2" width="13.6" height="13.8" rx="1.5" fill="#2ecc71" fill-opacity="0.95"/>
-<rect x="649.6" y="426.0" width="13.6" height="18.0" rx="1.5" fill="#2ecc71" fill-opacity="0.95"/>
-<rect x="665.2" y="442.0" width="13.6" height="2.0" rx="1.5" fill="#2ecc71" fill-opacity="0.95"/>
+<rect x="634.0" y="414.7" width="13.6" height="29.3" rx="1.5" fill="#2ecc71" fill-opacity="0.95"/>
+<rect x="649.6" y="441.3" width="13.6" height="2.7" rx="1.5" fill="#2ecc71" fill-opacity="0.95"/>
+<rect x="665.2" y="444.0" width="13.6" height="0.0" rx="1.5" fill="#2ecc71" fill-opacity="0"/>
 <rect x="680.8" y="444.0" width="13.6" height="0.0" rx="1.5" fill="#2ecc71" fill-opacity="0"/>
 <rect x="696.5" y="444.0" width="13.6" height="0.0" rx="1.5" fill="#2ecc71" fill-opacity="0"/>
 <rect x="712.1" y="444.0" width="13.6" height="0.0" rx="1.5" fill="#2ecc71" fill-opacity="0"/>
 <rect x="727.7" y="444.0" width="13.6" height="0.0" rx="1.5" fill="#2ecc71" fill-opacity="0"/>
-<rect x="743.3" y="444.0" width="13.6" height="0.0" rx="1.5" fill="#2ecc71" fill-opacity="0"/>
+<rect x="743.3" y="442.0" width="13.6" height="2.0" rx="1.5" fill="#2ecc71" fill-opacity="0.95"/>
 <rect x="758.9" y="408.0" width="13.6" height="36.0" rx="1.5" fill="#C6F432" fill-opacity="0.95"/>
-<rect x="774.5" y="439.8" width="13.6" height="4.2" rx="1.5" fill="#C6F432" fill-opacity="0.95"/>
-<rect x="790.2" y="426.0" width="13.6" height="18.0" rx="1.5" fill="#C6F432" fill-opacity="0.95"/>
-<rect x="805.8" y="432.9" width="13.6" height="11.1" rx="1.5" fill="#C6F432" fill-opacity="0.95"/>
-<rect x="821.4" y="441.2" width="13.6" height="2.8" rx="1.5" fill="#C6F432" fill-opacity="0.95"/>
+<rect x="774.5" y="442.0" width="13.6" height="2.0" rx="1.5" fill="#C6F432" fill-opacity="0.95"/>
+<rect x="790.2" y="426.7" width="13.6" height="17.3" rx="1.5" fill="#C6F432" fill-opacity="0.95"/>
+<rect x="805.8" y="433.3" width="13.6" height="10.7" rx="1.5" fill="#C6F432" fill-opacity="0.95"/>
+<rect x="821.4" y="440.0" width="13.6" height="4.0" rx="1.5" fill="#C6F432" fill-opacity="0.95"/>
 <line x1="24" y1="476" x2="836" y2="476" stroke="#ffffff" stroke-opacity="0.08"/>
 <text x="24" y="500" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#6f9479">Tactic: gegenpress every bug · Formation: 4-3-3 · Home ground: GitHub</text>
-<text x="836" y="500" text-anchor="end" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#6f9479">Updated 2026-10-17</text>
+<text x="836" y="500" text-anchor="end" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#6f9479">Updated 2026-10-18</text>
 </g></svg>
