@@ -1,9 +1,10 @@
 ### Ankit Lakra
 
-Cloud · DevOps · MLOps engineer based in Mangaluru, India.
+Cloud · DevOps · AI engineer based in Mangaluru, India.<br>
+I deploy and run apps on AWS, and with a degree in AI/ML I also build ML models, computer vision tools and RAG apps.
 
 B.E. CSE (AI & ML), MITE · previously AI & Data Science Intern at Kakunje Software.<br>
-Open to entry-level Cloud / DevOps / SRE / MLOps roles in Bengaluru or remote.
+Open to entry-level Cloud / DevOps / SRE / MLOps and AI engineering roles in Bengaluru or remote.
 
 &nbsp;
 
