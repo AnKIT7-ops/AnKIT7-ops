@@ -8,13 +8,9 @@ Open to entry-level Cloud / DevOps / SRE / MLOps and AI engineering roles in Ben
 
 &nbsp;
 
-**Now**
-
-- Preparing for AWS Certified Cloud Practitioner
-- Going deeper into Linux internals
-
 **Work**
 
+- [AegisAI](https://github.com/AnKIT7-ops/AegisAI-AI-Reliability-Platform) — local-first reliability platform for RAG apps: cited answers over your own documents with Ollama and FAISS, a versioned 69-question evaluation set, CI quality gates that block regressing releases, Prometheus + Grafana telemetry and rule-based incident reports with runbooks, all on Docker Compose with PostgreSQL
 - [Production-grade e-commerce platform on AWS](https://github.com/AnKIT7-ops/Production-Grade-E-Commerce-Platform-on-AWS) — FastAPI + React + PostgreSQL store, deployed with Terraform to ECS Fargate behind an ALB, with a private RDS database, images in ECR, secrets injected from SSM Parameter Store and circuit-breaker rollbacks; 131 backend tests against real Postgres
 - [FootIQ](https://github.com/AnKIT7-ops/FootIQ.ai) — live AI football analytics site ([footiq-omega.vercel.app](https://footiq-omega.vercel.app)): React + TypeScript on Vercel, a Hono API on Cloudflare Workers, Supabase Postgres, and a RAG chat over Guardian articles that drops any citation it didn't retrieve (100% recall@6 on a 30-question eval)
 - [CI/CD pipeline for a containerized FastAPI service](https://github.com/AnKIT7-ops/CI-CD-Pipeline-for-a-Containerized-FastAPI-Service) — ruff, pytest, a multi-stage non-root Docker image and a GitHub Actions pipeline to Docker Hub, gated by tests and a post-publish smoke test
@@ -28,8 +24,9 @@ Open to entry-level Cloud / DevOps / SRE / MLOps and AI engineering roles in Ben
 
 Python · FastAPI · Docker · GitHub Actions · Terraform · PostgreSQL · Linux<br>
 AWS: ECS Fargate · ALB · RDS · ECR · SSM · CloudWatch · S3 · CloudFront · EC2 · IAM<br>
+Prometheus · Grafana · FAISS · Ollama<br>
 PyTorch · TensorFlow · scikit-learn · Flask · React · TypeScript · Node.js<br>
-<sub>learning — Kubernetes · Prometheus · Grafana · LangGraph</sub>
+<sub>learning — Kubernetes · LangGraph</sub>
 
 &nbsp;
 
